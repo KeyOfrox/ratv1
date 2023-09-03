@@ -1,0 +1,9 @@
+<theme>
+    <name>RatouneThemeV1</name>
+    <skinType>1</skinType>
+    <description>Theme Special ratoune.</description>
+    <previewUri>ratoune.jpg</previewUri>
+	<version>2.68.1</version>
+	<dofusVersion>2.68</dofusVersion>
+	<author>KeyOf</author>
+</theme>
