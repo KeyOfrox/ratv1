@@ -2,7 +2,7 @@
   { 
     "author" : "KeyOf", 
     "name" : "RatouneThemeV1", 
-    "keyWords" : "parma,parme", 
+    "keyWords" : "keyword1,keyword2", 
     "version" : "1.0.0", 
     "dofusVersion" : "2.68", 
     "description" : "Le thème des Ratounes", 
