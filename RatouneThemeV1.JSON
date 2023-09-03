@@ -1,12 +1,26 @@
-{
-"author" : "KeyOf",
-"name" : "RatouneV1",
-"keyWords" : "keyword1,keyword2",
-"version" : "1.0.0",
-"dofusVersion" : "2.68",
-"description" : "Theme Special Ratounes",
-"url" : "https://github.com/KeyOfrox/ratv1/raw/main/RatouneThemeV1.zip",
-"previewUrl" : "https://github.com/KeyOfrox/Ratounes/blob/main/ratoune.jpg",
-"creationDate" : "03/09/2023",
-"modificationDate" : "03/09/2023"
-}
+[
+  { 
+    "author" : "KeyOf", 
+    "name" : "RatouneThemeV1", 
+    "keyWords" : "parma,parme", 
+    "version" : "1.0.0", 
+    "dofusVersion" : "2.68", 
+    "description" : "Le thème de base adouci et parme / rose (avec quelques changements)", 
+    "url" : "https://github.com/KeyOfrox/ratv1/raw/main/RatouneThemeV1.zip", 
+    "previewUrl" : "https://github.com/KeyOfrox/ratv1/blob/main/ratoune.jpg", 
+    "creationDate" : "14/09/2016", 
+    "modificationDate" : "14/10/2016"  
+  },
+  { 
+    "author" : "Angom8", 
+    "name" : "ElioStone v2", 
+    "keyWords" : "blue,bleu", 
+    "version" : "1.0.0", 
+    "dofusVersion" : "2.37", 
+    "description" : "Le thème de base adouci et bleu eliotrope (avec quelques changements)", 
+    "url" : "https://github.com/Angom8/gomstheme/raw/master/eliostone%20v2.zip", 
+    "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/eliostonev2.PNG", 
+    "creationDate" : "16/09/2016", 
+    "modificationDate" : "16/10/2016"  
+  }
+]
